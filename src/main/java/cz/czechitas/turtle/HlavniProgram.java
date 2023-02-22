@@ -11,7 +11,7 @@ public class HlavniProgram {
         zofka.setLocation(70,80);
         kolecko(Color.blue);
 
-        zofka.setLocation(130,220);
+        zofka.setLocation(128,220);
         trojuhelnik(Color.ORANGE,140);
     }
 
